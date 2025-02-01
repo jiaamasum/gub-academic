@@ -1,6 +1,6 @@
-# Python Programming Solutions
+# PythonIntro - LabPerformance01
 
-This repository contains solutions to 8 Python programming problems covering basic tasks such as arithmetic operations, loops, and functions. 
+Here i have solved 8 Python problems from the lab 01 with tasks such as arithmetic operations, loops, and functions. 
 
 ## Problem List & Descriptions
 
@@ -30,7 +30,7 @@ This repository contains solutions to 8 Python programming problems covering bas
 
 ## File Structure
 
-Each problem is implemented in a separate Python file for clarity. The files are named as follows:
+Each problem is implemented in a separate Python file for clarity. The files are contains as follows:
 
 - Sum of odd and even numbers
 - Find the smallest number
