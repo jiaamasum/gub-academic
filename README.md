@@ -22,28 +22,10 @@ This repository contains solutions to 8 Python programming problems covering bas
 6. **Generate Fibonacci Series**  
    - Generates the Fibonacci series for a specified number of terms.
 
-7. **(Duplicate) Sum of Odd and Even Numbers from a Set of Numbers**  
-   - A duplicate of Problem 1 for additional practice.
-
-8. **(Duplicate) Find the Smallest Number from a Set of Numbers**  
-   - A duplicate of Problem 2 for additional practice.
-
-9. **(Duplicate) Sum of All Numbers Between 50 and 100 Divisible by 3 and Not Divisible by 5**  
-   - A duplicate of Problem 3 for additional practice.
-
-10. **(Duplicate) Find the Second Highest Number from a Set of Numbers**  
-    - A duplicate of Problem 4 for additional practice.
-
-11. **(Duplicate) Find the Factorial of a Number Using a For Loop**  
-    - A duplicate of Problem 5 for additional practice.
-
-12. **(Duplicate) Generate Fibonacci Series**  
-    - A duplicate of Problem 6 for additional practice.
-
-13. **Find the Largest Number Between Two Numbers Using a Function**  
+7. **Find the Largest Number Between Two Numbers Using a Function**  
     - Contains a function that compares two numbers and returns the larger one.
 
-14. **Find the Sum of the Numbers Passed as Parameters**  
+8. **Find the Sum of the Numbers Passed as Parameters**  
     - Contains a function that calculates the sum of an arbitrary number of parameters.
 
 ## File Structure
