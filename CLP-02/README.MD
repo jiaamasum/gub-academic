@@ -1,4 +1,4 @@
-#LabPerformance02-PythonTools
+# LabPerformance02-PythonTools
 
 # Problem 1: List - Remove Duplicates and Sort in Ascending Order  
 # Goal: Given a list of numbers, remove duplicates and sort the list in ascending order.
