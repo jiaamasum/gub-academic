@@ -3,6 +3,9 @@
 ## We are doing:
 
 ⇒ Generating a random grid with obstacles (0) and paths (1).
+
 ⇒ Ensuring the source and goal are placed on valid non-obstacle positions.
+
 ⇒ Using DFS to find a path while tracking traversal order and backtracking correctly.
+
 ⇒ Printing the grid, movement steps, DFS path, and topological order.
