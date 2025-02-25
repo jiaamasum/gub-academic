@@ -1,4 +1,4 @@
-# Here we generates a random N×N grid (where N is between 4 and 7) with obstacles and open paths, then performs Depth-First Search (DFS) to find a path from a randomly placed source to a goal. The program prints the grid, movement steps, the DFS path, and the topological order of traversal.
+## Here we generates a random N×N grid (where N is between 4 and 7) with obstacles and open paths, then performs Depth-First Search (DFS) to find a path from a randomly placed source to a goal. The program prints the grid, movement steps, the DFS path, and the topological order of traversal.
 
 ## We are doing:
 
