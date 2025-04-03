@@ -9,7 +9,7 @@ It takes a grid input where '0' is a walkable cell and '1' is a wall and finds a
 
 Both codes are interactive and take input from the user or file as needed. 
 
-### 🧠 What’s Inside?
+### I have done:
 
 1. **Graph Coloring using Backtracking ('backtr.py')**  
 This program solves the graph coloring problem using the backtracking algorithm. 
