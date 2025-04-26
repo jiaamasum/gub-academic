@@ -9,7 +9,7 @@ I have implements a modified K-Means clustering algorithm using **Manhattan dist
 
 ## Files
 
-- `kmeans_manhattan.py` — Main source code
+- `kMeansClustering.py` — Main source code
 - `data.txt` — Auto-generated data file containing points and clusters
 
 ## Requirements
