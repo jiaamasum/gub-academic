@@ -1,4 +1,4 @@
-We have implements a modified K-Means clustering algorithm using **Manhattan distance**.
+I have implements a modified K-Means clustering algorithm using **Manhattan distance**.
 
 - 100 random Cartesian points are generated.
 - 10 random initial cluster centers are generated.
