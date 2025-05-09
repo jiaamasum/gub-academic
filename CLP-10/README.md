@@ -20,3 +20,10 @@ We place a rook at position `(i, i)` for all rows `i`. This ensures:
 - Each row has exactly one rook
 - Each column has exactly one rook  
 This is one of many valid solutions.
+
+---
+
+## Output
+
+![image](https://github.com/user-attachments/assets/d0ce6286-9df1-447c-ad91-2454b8ecbe4a)
+
